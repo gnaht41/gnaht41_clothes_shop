@@ -17,3 +17,5 @@ Mục tiêu: Giúp người dùng dễ dàng xem sản phẩm, xem chi tiết v�
 - Trang chi tiết sản phẩm
 - Giỏ hàng (lưu tạm bằng JavaScript)
 - Responsive trên mọi thiết bị
+
+## Đường dẫn chính: https://gnaht41.github.io/gnaht41_clothes_shop/html/Home.html
